@@ -123,6 +123,8 @@
     , "https://nouveau-europresse-com.ujm.idm.oclc.org/*"
     , "https://nouveau-europresse-com.em-lyon.idm.oclc.org/"
     , "https://nouveau.europresse.com/access/ip/default.aspx?un=CENTRALENANTEST_1"
+    , "https://nouveau.europresse.com/Login/Esidoc?sso_id=0753598D"
+    
   ],
   "background": {
     "scripts": [
@@ -892,6 +894,10 @@
         {
           "name": "Centrale Lyon",
           "AUTH_URL": "https://ec-lyon.idm.oclc.org/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=LYONT_7"
+        },
+        {
+          "name": "Collège Sévigné",
+          "AUTH_URL": "https://0753598d.esidoc.fr/"
         },
         {
           "name": "CY Cergy Paris Université",
